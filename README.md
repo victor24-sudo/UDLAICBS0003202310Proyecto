@@ -1,6 +1,6 @@
 # Proyecto Plan Operativo Anual 2020-2025
 
-Autores: Victor Ponce, Felipe Ocaña y Esteban Sampedro
+## Autores: Victor Ponce, Felipe Ocaña y Esteban Sampedro
 
 El proyecto se puede ejecutar, al tener las herramientas adecuadas. En este caso en la carpeta "Documentación", contiene los manuales de instalación.
 
