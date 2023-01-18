@@ -1,0 +1,40 @@
+
+
+USE poacarrera;
+
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Relaciones Internacinales','7');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ciencias Politicas','8');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Gastronomia','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Turismo','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Artes Musicales','7');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Educación','8');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Psicología','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Psicología Clinica','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Diseño de Productos','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Arquitectura','8');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Diseño de Interiores','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Fisioterapia','8');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Enfermería','8');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Veterania','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Economía','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Administración de Empresas','7');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Gestión Deportiva','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Marketing','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Negocios Internaciones','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Finanzas','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Negocios Digitales','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Periodismo','7');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Cine','5');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Publicidad','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Diseño Gráfico','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Comunicación','3');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Multimedia','6');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Derecho','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ingeniería en Software','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ingeniería en Ciberseguridad','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ingeniería en Agroindustrial','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ingeniería en Biotecnología','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ingeniería en Sonido','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Ingeniería en Electrónica','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Medicina','9');
+INSERT INTO carrera (Nombre, NumSemestres) VALUES ('Odontología','9');
